@@ -23,6 +23,7 @@ Express.js: Web framework for Node.js.
 MongoDB: NoSQL database for storing application data.
 
 ## 🚀 Getting Started
+
 Prerequisites
 Ensure you have the following installed:
 
@@ -50,7 +51,10 @@ bash
 Copy
 Edit
 npm run dev
-The application will be available at http://localhost:5173.
+The application will be available at 
+
+Local:   http://localhost:8080/
+Network: http://192.168.1.6:8080/
 
 ## 📁 Project Structure
 pgsql
