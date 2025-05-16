@@ -58,7 +58,7 @@ const DoctorManagement = () => {
           <label className="block text-sm mb-1">Doctor Name</label>
           <input 
             type="text" 
-            placeholder="e.g. Dr. Gorish Gupta" 
+            placeholder="e.g. Dr. Aditya" 
             className="w-full p-2 border rounded text-sm"
             value={name}
             onChange={(e) => setName(e.target.value)}
@@ -84,7 +84,7 @@ const DoctorManagement = () => {
           <label className="block text-sm mb-1">Email</label>
           <input 
             type="email" 
-            placeholder="e.g. gorish@gmail.com" 
+            placeholder="e.g. aditya@gmail.com" 
             className="w-full p-2 border rounded text-sm"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
@@ -94,7 +94,7 @@ const DoctorManagement = () => {
           <label className="block text-sm mb-1">Phone Number</label>
           <input 
             type="text" 
-            placeholder="e.g. 9876543210" 
+            placeholder="e.g. 9934296257" 
             className="w-full p-2 border rounded text-sm"
             value={phone}
             onChange={(e) => setPhone(e.target.value)}
