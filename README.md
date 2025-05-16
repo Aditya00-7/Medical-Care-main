@@ -54,6 +54,7 @@ npm run dev
 The application will be available at 
 
 Local:   http://localhost:8080/
+
 Network: http://192.168.1.6:8080/
 
 ## 📁 Project Structure
